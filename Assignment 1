@@ -1,0 +1,6 @@
+l=[1,12,123,1234]
+print(l)
+maxi=max(l)
+print('maximum number in list:',maxi)
+mini=min(l)
+print('minimum number in list:',mini)
